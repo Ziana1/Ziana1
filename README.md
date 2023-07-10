@@ -1,5 +1,6 @@
 ### Hi there 👋 My Name is ZIANA
-Os Ticket
+Information Technology Project
+OsTicket
 <!--
 **Ziana1/Ziana1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
