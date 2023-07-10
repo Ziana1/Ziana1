@@ -1,5 +1,5 @@
-### Hi there 👋 My Name is ZIANA Infomation Technology
-OsTicket
+### Hi there 👋 My Name is ZIANA Information Technology
+*OsTicket
 <!--
 **Ziana1/Ziana1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
